@@ -10,7 +10,7 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 ## Get in touch 📫 
 - Twitter: https://twitter.com/ayush577
 - Dribbble: https://dribbble.com/ayush577
-- Instagram: https://instagram.com/from.thehouseofgandi
+- Instagram: https://instagram.com/from.houseofgandhi
 
 <!--
 **ayush577/ayush577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
