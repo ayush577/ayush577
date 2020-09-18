@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ayush Gandhi
 Hi, I'm Ayush Gandhi —a M.E.A.N stack developer & product designer at upwork
 
-- 🔭 I’m currently working on uicrumbs, [Threatspy](secureblink.com), thesharplook
+- 🔭 I’m currently working on uicrumbs, [Threatspy](http://secureblink.com/), thesharplook
 - 🌱 I’m currently learning node.js, deno, typesrcipt
 
 ## How I work 😄
