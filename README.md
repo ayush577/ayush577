@@ -12,6 +12,10 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 - Dribbble: https://dribbble.com/ayush577
 - Instagram: https://instagram.com/from.houseofgandhi
 
+## States
+![codedwright's github stats](https://github-readme-stats.vercel.app/api?username=ayush577&hide=stars,prs,contribs,issues,contrib&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush577&&layout=compact&hide=hack)
+
 <!--
 **ayush577/ayush577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
