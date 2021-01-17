@@ -2,7 +2,7 @@
 M.E.A.N Stack Developer & Product Designer
 
 - 🔭 I’m currently working on uicrumbs, [Threatspy](http://secureblink.com/), thesharplook
-- 🌱 I’m currently learning node.js, deno, typesrcipt
+- 🌱 I’m currently learning deno, typesrcipt
 
 ## How I work 😄
 My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
