@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Ayush Gandhi
-M.E.A.N Stack Developer & Product Designer
+M.E.A.N & M.E.R.N Stack Developer & Product Designer
 
 - 🔭 I’m currently working on uicrumbs
 - 🌱 I’m currently learning deno, typesrcipt
