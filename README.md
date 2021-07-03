@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ayush Gandhi
 M.E.A.N Stack Developer & Product Designer
 
-- 🔭 I’m currently working on uicrumbs, [Threatspy](http://secureblink.com/), thesharplook
+- 🔭 I’m currently working on uicrumbs
 - 🌱 I’m currently learning deno, typesrcipt
 
 ## How I work 😄
