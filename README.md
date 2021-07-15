@@ -10,7 +10,8 @@ My motivations are to stabilize and provide clarity through curiosity. That tend
 ## Get in touch 📫 
 - Twitter: https://twitter.com/ayush577
 - Dribbble: https://dribbble.com/ayush577
-- Instagram: https://instagram.com/from.houseofgandhi
+- Instragram: https://instagram.com/uicrumb
+- Personal Instagram: https://instagram.com/from.houseofgandhi
 
 ## Summary 🤓 
 ![codedwright's github stats](https://github-readme-stats.vercel.app/api?username=ayush577&hide=stars,prs,contribs,issues,contrib&show_icons=true&count_private=true)
