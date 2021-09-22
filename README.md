@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Ayush Gandhi
-Designer who code
+M.E.R/A.N. Developer / UI Designer 
 
 - 🔭 I’m currently working on uicrumbs
 - 🌱 I’m currently learning deno, typesrcipt
