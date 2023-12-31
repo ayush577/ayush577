@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Ayush Gandhi
-M.E.R.N / M.E.A.N Developer / UI Designer 
+M.E.R.N Developer / UI Designer 
 
-- 🔭 I’m currently working on uicrumbs
-- 🌱 I’m currently learning deno, typesrcipt
+- 🔭 I’m currently working on @cutshortHQ
+- 🌱 I’m currently learning deno, typescript
 
 ## How I work 😄
 My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
